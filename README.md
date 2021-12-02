@@ -9,4 +9,4 @@
 
 <p>You can use the "http://www.ptsv2.com" to creat a custom testbed. Currently just the HTTP GET function is implmeneted. Use the following command
      "./proxy URL"
-to execute the command. It will create a local DB like with the data received from the server.</p>
+to execute the command. It will create local DB like entries with the data received from the server.</p>

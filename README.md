@@ -4,9 +4,9 @@
 
 <h3> Usage </h3>
 
-<p> change directory to the main folder </p>
+<p> Change directory to the main folder and use the following command.
+    "gcc src/proxy_lib.c proxy.c -o proxy"</p>
 
-<p> type: "gcc src/proxy_lib.c proxy.c -o proxy" \
-
-you can use the "http://www.ptsv2.com/" to creat a custom testbed, currently just the HTTP GET function is implmeneted. \
-type "./proxy URL" to execute the command. It will create a local DB like with the data received from the server.</p>
+<p>You can use the "http://www.ptsv2.com" to creat a custom testbed. Currently just the HTTP GET function is implmeneted. Use the following command
+     "./proxy URL"
+to execute the command. It will create a local DB like with the data received from the server.</p>

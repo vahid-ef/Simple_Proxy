@@ -1,7 +1,5 @@
 <h1> Simple Proxy Server</h1>
 
-<p> This simple proxy server is for educational purpose </p>
-
 <h3> Usage </h3>
 
 <p> Change directory to the main folder and use the following command.<br>

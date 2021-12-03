@@ -8,9 +8,6 @@ int main(int argc, char* argv[]){
         return EXIT_FAILURE;
     }
 
-	//proxy_proces_url(url_value);
-    //proxy_proces_url(argv[1]);
-
     proxy_proces_url(argv[1]);
 
     return EXIT_SUCCESS;
